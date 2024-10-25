@@ -1,0 +1,2 @@
+# secure-medical-image-watermarking-for-iomt-using-combined-dwt---dct-model
+Discrete Wavelet Transform (DWT) and Discrete Cosine Transform (DCT) model is a cutting-edge approach.   ensures both security and accuracy in transmission and storage within IoMT systems. The DWT helps in spatial domain analysis, while the DCT focuses on frequency domain properties, enhancing the robustness and security of the watermarking process
